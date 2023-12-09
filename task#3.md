@@ -22,7 +22,7 @@
   </BoardHeader>
 
   <LeaderBoardProfiles>
-    {/* Довільна кіл-сть FriendListItem */}
+    {/* Довільна кіл-сть ForbesListItem */}
   </LeaderBoardProfiles>
 </LeaderBoard>
 ```
